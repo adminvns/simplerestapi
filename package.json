@@ -1,0 +1,24 @@
+{
+  "name": "simplerestapi",
+  "version": "1.0.0",
+  "description": "A simple demo Rest Api using node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adminvns/simplerestapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adminvns/simplerestapi/issues"
+  },
+  "homepage": "https://github.com/adminvns/simplerestapi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
